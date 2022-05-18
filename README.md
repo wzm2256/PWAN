@@ -18,6 +18,8 @@ Partial Wasserstein Adversarial Network (PWAN) seeks to partially match two unno
 
 ## Usage
 Common usage is shown in scrip.py, and see more detailed explanations of the parameters in main.py.
+Note the algorithm may sometimes fail to converge due to the regularizer term,
+try using smaller regularizer (e.g. larger sigma or smaller lambda) to stabilize the training.
 
 ## Reference
 
