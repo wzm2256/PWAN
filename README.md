@@ -1,5 +1,12 @@
 # Partial Wasserstein Adversarial Network for Non-rigid Point Set Registration
 
+
+-----------------------
+**Update 2023/03/22: In the near future, several updates will be made:**
+1. A new version for rigid point set registration will be released.
+2. API will be polished so that this code can be used more easily.
+-----------------------
+
 This is a Pytorch implement of the PWAN model proposed in [Partial Wasserstein Adversarial Network for Non-rigid Point Set Registration](https://openreview.net/forum?id=2ggNjUisGyr).
 
 
